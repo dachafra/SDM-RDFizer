@@ -1,4 +1,4 @@
-from rdfizer import semantify
+from . import semantify
 import sys
 import getopt
 

@@ -81,12 +81,6 @@ Visit the [wiki](https://github.com/SDM-TIB/SDM-RDFizer/wiki) of the repository 
 ## Configurations
 You can easily customize your own configurations from the set of features that SDM-RDFizer offers by changing the values of the parameters in the config file. The descriptions of each parameter and the possible values are provided [here](https://github.com/SDM-TIB/SDM-RDFizer/wiki/The-Parameters-of-the-Configuration-file); "ordered" and "large_file" are the new features provided by SDM-RDFizer version 4.0.  
 
-
-## Version 
-```
-4.7.5.2
-```
-
 ## RML-Test Cases
 See the results of the SDM-RDFizer over the RML test-cases at the [RML Implementation Report](http://rml.io/implementation-report/). SDM-RDFizer version 4.0 is tested over the latest published [test cases](https://rml.io/test-cases/) before the release.
 
@@ -123,5 +117,5 @@ This work is licensed under Apache 2.0
 [Morph-KGC: Scalable knowledge graph materialization with mapping partitions](https://content.iospress.com/articles/semantic-web/sw223135)
 
 # Authors
-The SDM-RDFizer has been developed by members of the Scientific Data Management Group at TIB, as an ongoing research effort. The development is coordinated and supervised by Maria-Esther Vidal (maria.vidal@tib.eu). We strongly encourage you to please report any issues you have with the SDM-RDFizer. You can do that over our contact email or creating a new issue here on GitHub. The SDM-RDFizer has been implemented by Enrique Iglesias (current version, iglesias@l3s.de) and Guillermo Betancourt (version 0.1, guillermojbetancourt@gmail.com) under the supervision of Samaneh Jozashoori (samaneh.jozashoori@tib.eu), David Chaves-Fraga (dchaves@fi.upm.es), and Kemele Endris (kemele.endris@tib.eu)
+The SDM-RDFizer has been developed by members of the Scientific Data Management Group at TIB, as an ongoing research effort. The development is coordinated and supervised by Maria-Esther Vidal (maria.vidal@tib.eu). We strongly encourage you to please report any issues you have with the SDM-RDFizer. You can do that over our contact email or creating a new issue here on GitHub. The SDM-RDFizer has been implemented by Enrique Iglesias (current version, iglesias@l3s.de) and Guillermo Betancourt (version 0.1, guillermojbetancourt@gmail.com) under the supervision of Samaneh Jozashoori (samaneh.jozashoori@tib.eu), David Chaves-Fraga (david.chaves@usc.es), and Kemele Endris (kemele.endris@tib.eu)
 
